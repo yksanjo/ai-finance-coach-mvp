@@ -1,5 +1,9 @@
 # 💰 AI Finance Coach MVP
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.javascript.com/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/ai-finance-coach-mvp?style=social)](https://github.com/yksanjo/ai-finance-coach-mvp/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/ai-finance-coach-mvp.svg)](https://github.com/yksanjo/ai-finance-coach-mvp/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/ai-finance-coach-mvp.svg)](https://github.com/yksanjo/ai-finance-coach-mvp/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/ai-finance-coach-mvp.svg)](https://github.com/yksanjo/ai-finance-coach-mvp/commits/main)
+
+
 An AI-powered personal finance tracking application that automatically categorizes expenses and provides insights to help you manage your money better.
 
 ## ✨ Features
